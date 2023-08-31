@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backgound
+    uniqueID: 3328618147
+    locked: 0
+  - name: Clouds
+    uniqueID: 3237149751
+    locked: 0
+  - name: Mountain
+    uniqueID: 182224049
+    locked: 0
+  - name: Forest
+    uniqueID: 1419090695
+    locked: 0
+  - name: Bird
+    uniqueID: 1799519029
+    locked: 0
+  - name: Land
+    uniqueID: 2445343999
+    locked: 0
+  - name: Flying bird
+    uniqueID: 2933548971
+    locked: 0
+  - name: Box
+    uniqueID: 2268210671
+    locked: 0
+  - name: Monster
+    uniqueID: 3761246129
+    locked: 0
+  - name: Effect
+    uniqueID: 4129357261
+    locked: 0
